@@ -1,0 +1,25 @@
+{
+	"color_scheme": "Packages/User/Color Highlighter/themes/One Dark.tmTheme",
+	"draw_white_space": "all",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"scroll_speed": 0,
+	"tab_size": 2,
+	"theme": "Adaptive.sublime-theme"
+}
+
+
+Plagins:
+
+1. ColorPicker
+2. LiveReload
+3. Color Highlighter
+4. Emmet
+5. Gist
+6. Sass Solution
+7. AutoFileName
+8. BracketHighlighter
+9. Package Control
